@@ -1,0 +1,14 @@
+button{
+    color: blue;
+    background-color: black;
+    border: 1px solid blue;
+}
+button:hover{
+    color:purple;
+}
+button:active{
+    background-color: gray;
+}
+.window{
+    background-color: blue;
+}
